@@ -8,7 +8,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: 'https://creditsea-1-1ex9.onrender.com/', // frontend URL
+  origin: 'https://creditsea-1-1ex9.onrender.com', // frontend URL
   credentials: true
 }));
 app.use(express.json());
