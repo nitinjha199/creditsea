@@ -87,7 +87,6 @@ creditsea/
 │   └── server.js                    # Express server setup
 │
 └── frontend/
-    └── frontend/
         ├── public/
         │   ├── index.html
         │   └── ...                  # Static assets
