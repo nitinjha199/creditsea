@@ -1,7 +1,7 @@
 // src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'https://creditsea-ib7z.onrender.com'; // Your backend URL
+const API_URL = 'https://creditsea-ib7z.onrender.com/api/reports'; // Your backend URL
 
 const uploadFile = async (file) => {
   const formData = new FormData();
